@@ -18,3 +18,24 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Environment files
+backend/.env
+
+# Uploads
+backend/uploads/
+
+# Node
+frontend/node_modules/
+
+# Next.js
+frontend/.next/
+
+# OS files
+.DS_Store
+Thumbs.db
